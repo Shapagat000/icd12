@@ -1,0 +1,119 @@
+body{
+    background-color: rgba(4, 4, 78, 0.712);
+    position: relative;
+
+}
+.bos{
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.small{
+    width: 90px;
+    height:70px;
+    border-radius: 20px;
+}
+.container{
+    background-color: rgb(215, 215, 215);
+    width: 1200px;
+    height: 500px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 200px;
+    
+    
+    
+
+}
+.profile{
+    background-color: white;
+    width: 75px;
+    height: 25px;
+    border-radius: 5px;
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+
+}
+.boxes{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    padding-left: 8px;
+}
+
+h1{
+    padding-left: 10px;
+    padding-top: 25px;
+}
+.column{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.bot{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 1rem;
+    margin-bottom: 35px;
+    margin-left: -500px;
+    margin-right: 20px;
+
+
+    
+}
+.row{
+    background-color: white;
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+    margin-top:15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+}
+.row2{
+    background-color: white;
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+    margin-top:15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+}
+.row3{
+    background-color: white;
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+    margin-top:15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+}
+h2{
+    display: flex;
+    position:absolute;
+    bottom:10px;
+}
+.full{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+p{
+    margin-left: 5px;
+}
+
+
